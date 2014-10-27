@@ -1,0 +1,3 @@
+CWE190_Integer_Overflow__char_fscanf_add_01: CWE190_Integer_Overflow__char_fscanf_add_01.c
+	gcc -o CWE190_Integer_Overflow__char_fscanf_add_01 CWE190_Integer_Overflow__char_fscanf_add_01.c
+
